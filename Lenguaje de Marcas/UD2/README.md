@@ -5,3 +5,7 @@
 [Ejercico 3](Tarea_3/index.html)
 
 [Ejercicio 4](Tarea_4/Tablas.html)
+
+[Ejercicio 5](Tarea_5/README.md)
+
+[Ejercicio 7](Tarea_7/index.html)
