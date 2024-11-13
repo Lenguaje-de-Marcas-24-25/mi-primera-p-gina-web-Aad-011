@@ -9,3 +9,7 @@
 [Ejercicio 5](Tarea_5/README.md)
 
 [Ejercicio 7](Tarea_7/index.html)
+
+[Ejercicio 8](Tarea_8/index.html)
+
+[Ejercicio 9](Tarea_9/index.html)
