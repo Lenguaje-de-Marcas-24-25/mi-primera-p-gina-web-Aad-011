@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+  <channel>
+    <title>Noticias Deportivas</title>
+    <link>https://www.mundodeportivo.com/</link>
+    <description>Las últimas noticias del mundo del deporte</description>
+
+    <item>
+      <title>El posible once del Barça ante el Athletic, con solo una duda</title>
+      <link>https://www.mundodeportivo.com/futbol/fc-barcelona/20250108/1002382396/posible-once-barca-athletic-duda.html</link>
+      <description>Con el regreso de Lamine y Raphinha a la delantera, Flick solo deberá despejar la incógnita de quién ocupa la plaza de Olmo</description>
+    </item>
+
+    <item>
+      <title>Las claves del Athletic - Barça, por Lobo Carrasco</title>
+      <link>https://www.mundodeportivo.com/futbol/fc-barcelona/20250108/1002382119/claves-athletic-barca-lobo-carrasco.html</link>
+      <description>'Leones' y azulgranas se ven las caras en la primera semifinal de la 'Final Four'</description>
+    </item>
+  </channel>
+</rss>
